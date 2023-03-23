@@ -21,3 +21,9 @@ export default defineComponent({
   },
 });
 </script>
+
+<style scoped>
+.v-container{
+  padding: 16px 0;
+}
+</style>
